@@ -7,5 +7,4 @@ Thumbs.db
 #Jarfiles
 *.jar
 
-[a]*txt
-
+[a]*.txt
